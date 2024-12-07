@@ -13,7 +13,10 @@
         android:theme="@style/Base.Theme.Gazoza"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".CarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PriceActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

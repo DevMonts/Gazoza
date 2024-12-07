@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Gazoza</string>
     <string name="PriceHint">Preço da Gasolina</string>
+    <string name="CarHint">Consumo do Carro</string>
     <string name="Next">Próximo</string>
 </resources>
