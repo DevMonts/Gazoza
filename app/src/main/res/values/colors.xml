@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <color name="money">#85BB65</color>
+    <color name="ferrari">#C4151C</color>
+</resources>
